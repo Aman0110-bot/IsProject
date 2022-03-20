@@ -3,7 +3,7 @@
 
 Life is dependent mainly on internet in todays life for moving business online, or making online transactions. Resulting in cyber-thefts and cyber-frauds increasing exponentially day by day, leading to compromised security and infiltration of hackers or third parties while transacting online. 
 
-## About Porject 
+## About Project 
 A multi-layered API based  solution, it supports always on detection system, Django REST framework used, equipped with a web-browser extension that uses a REST API call.
 
 ## Test Data on some Malicious/Legitimate URLs
@@ -25,7 +25,7 @@ https://www.freepik.com/free-vector | Legitimate
 
 ## How to run .
 
-1.	Extract Malicious-Urlv5 zip file.
+1.	Extract project's zip file.
 2.	Inside Malicious-Urlv5 there is a file requirements.txt
 3.	Open command prompt in Malicious-Urlv5 folder
 
