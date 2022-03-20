@@ -43,9 +43,8 @@ https://www.freepik.com/free-vector | Legitimate
     
     ![How to install](/Images/img5.png)
     
-7.	Type http://127.0.0.1:8000/ in URL bar of browser and press Enter.     
+7.	Open the porject on localhost  
 
-    ![How to install](/Images/img6.png)
     
 8.	Type a valid URL for example to fetch analysis:
 
