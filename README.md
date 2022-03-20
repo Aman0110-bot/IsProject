@@ -1,4 +1,4 @@
-## Malicious URL Detector 
+## Malicious URL Detector
 **Malicious URL Detector**                 
 
 Life is dependent mainly on internet in todays life for moving business online, or making online transactions. Resulting in cyber-thefts and cyber-frauds increasing exponentially day by day, leading to compromised security and infiltration of hackers or third parties while transacting online.
@@ -43,7 +43,7 @@ https://www.freepik.com/free-vector | Legitimate
     
     ![How to install](/Images/img5.png)
     
-7.	Type http://127.0.0.1:8000/ in URL bar of browser and press Enter. Machine Learning powered Web                 Application will start.    
+7.	Type http://127.0.0.1:8000/ in URL bar of browser and press Enter.     
 
     ![How to install](/Images/img6.png)
     
