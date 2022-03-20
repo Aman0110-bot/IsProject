@@ -1,9 +1,12 @@
 ## Malicious URL Detector
 **Malicious URL Detector**                 
 
-Life is dependent mainly on internet in todays life for moving business online, or making online transactions. Resulting in cyber-thefts and cyber-frauds increasing exponentially day by day, leading to compromised security and infiltration of hackers or third parties while transacting online.
+Life is dependent mainly on internet in todays life for moving business online, or making online transactions. Resulting in cyber-thefts and cyber-frauds increasing exponentially day by day, leading to compromised security and infiltration of hackers or third parties while transacting online. 
 
-## Test Data
+## About Porject 
+A multi-layered API based  solution, it supports always on detection system, Django REST framework used, equipped with a web-browser extension that uses a REST API call.
+
+## Test Data on some Malicious/Legitimate URLs
 
 Test URL | Result (Target)
 ------------ | -------------
@@ -20,7 +23,7 @@ https://wallpapersite.com/abstract/ | Legitimate
 https://www.freepik.com/free-vector | Legitimate
 
 
-## Installation Guide.
+## How to run .
 
 1.	Extract Malicious-Urlv5 zip file.
 2.	Inside Malicious-Urlv5 there is a file requirements.txt
